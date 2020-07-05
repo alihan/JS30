@@ -93,4 +93,9 @@ const projects = [
     url: "local-storage/index.html",
     img: "images/local-storage.JPG",
   },
+  {
+    title: "CSS Text Shadow Mouse Move Effect",
+    url: "mouse-move-shadow/index.html",
+    img: "images/shadow.JPG",
+  },
 ];
