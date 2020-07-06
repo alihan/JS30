@@ -98,4 +98,9 @@ const projects = [
     url: "mouse-move-shadow/index.html",
     img: "images/shadow.JPG",
   },
+  {
+    title: "Sorting Band Names without Article",
+    url: "sort-without-articles/index.html",
+    img: "images/sorting-bands.JPG",
+  },
 ];
