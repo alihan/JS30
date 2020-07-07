@@ -103,4 +103,9 @@ const projects = [
     url: "sort-without-articles/index.html",
     img: "images/sorting-bands.JPG",
   },
+  {
+    title: "Tally String Times with Reduce",
+    url: "tally-string-times-with-reduce/index.html",
+    img: "images/tally.JPG",
+  },
 ];
