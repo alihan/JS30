@@ -108,4 +108,19 @@ const projects = [
     url: "tally-string-times-with-reduce/index.html",
     img: "images/tally.JPG",
   },
+  {
+    title: "Webcam Fun",
+    url: "webcam-fun/index.html",
+    img: "images/webcam.JPG",
+  },
+  {
+    title: "Speech Detection",
+    url: "speech-detection/index.html",
+    img: "images/speech.JPG",
+  },
+  {
+    title: "Geolocation",
+    url: "geolocation/index.html",
+    img: "images/geolocation.JPG",
+  },
 ];
