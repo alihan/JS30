@@ -123,4 +123,9 @@ const projects = [
     url: "geolocation/index.html",
     img: "images/geolocation.JPG",
   },
+  {
+    title: "Follow Along links",
+    url: "follow-along-links/index.html",
+    img: "images/follow.JPG",
+  },
 ];
