@@ -1,0 +1,149 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: wheat;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  background-image: radial-gradient(
+      circle at 100% 150%,
+      #9d21ce 24%,
+      #9d42d2 25%,
+      #9d42d2 28%,
+      #9d21ce 29%,
+      #9d21ce 36%,
+      #9d42d2 36%,
+      #9d42d2 40%,
+      transparent 40%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 0 150%,
+      #9d21ce 24%,
+      #9d42d2 25%,
+      #9d42d2 28%,
+      #9d21ce 29%,
+      #9d21ce 36%,
+      #9d42d2 36%,
+      #9d42d2 40%,
+      transparent 40%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 50% 100%,
+      #9d42d2 10%,
+      #9d21ce 11%,
+      #9d21ce 23%,
+      #9d42d2 24%,
+      #9d42d2 30%,
+      #9d21ce 31%,
+      #9d21ce 43%,
+      #9d42d2 44%,
+      #9d42d2 50%,
+      #9d21ce 51%,
+      #9d21ce 63%,
+      #9d42d2 64%,
+      #9d42d2 71%,
+      transparent 71%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 100% 50%,
+      #9d42d2 5%,
+      #9d21ce 6%,
+      #9d21ce 15%,
+      #9d42d2 16%,
+      #9d42d2 20%,
+      #9d21ce 21%,
+      #9d21ce 30%,
+      #9d42d2 31%,
+      #9d42d2 35%,
+      #9d21ce 36%,
+      #9d21ce 45%,
+      #9d42d2 46%,
+      #9d42d2 49%,
+      transparent 50%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 0 50%,
+      #9d42d2 5%,
+      #9d21ce 6%,
+      #9d21ce 15%,
+      #9d42d2 16%,
+      #9d42d2 20%,
+      #9d21ce 21%,
+      #9d21ce 30%,
+      #9d42d2 31%,
+      #9d42d2 35%,
+      #9d21ce 36%,
+      #9d21ce 45%,
+      #9d42d2 46%,
+      #9d42d2 49%,
+      transparent 50%,
+      transparent
+    );
+  background-size: 100px 50px;
+}
+.voiceinator {
+  padding: 2rem;
+  width: 50rem;
+  margin: 0 auto;
+  border-radius: 1rem;
+  position: relative;
+  background: white;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  width: calc(100% + 4rem);
+  margin: -2rem 0 2rem -2rem;
+  padding: 0.5rem;
+  background: wheat;
+  border-bottom: 5px solid wheat;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 100;
+  font-family: "pacifico", cursive;
+  text-shadow: 3px 3px 0 wheat;
+}
+.voiceinator input,
+.voiceinator button,
+.voiceinator select,
+.voiceinator textarea {
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  border: 0;
+  font-size: 2rem;
+  background: #f7f7f7;
+  outline: 0;
+}
+textarea {
+  height: 20rem;
+}
+.voiceinator button {
+  background: wheat;
+  border: 0;
+  width: 49%;
+  float: left;
+  font-family: "pacifico", cursive;
+  margin-bottom: 0;
+  font-size: 2rem;
+  border-bottom: 5px solid wheat;
+  cursor: pointer;
+  position: relative;
+}
+.voiceinator button:active {
+  top: 2px;
+}
+.voiceinator button:nth-of-type(1) {
+  margin-right: 2%;
+}
