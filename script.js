@@ -128,4 +128,9 @@ const projects = [
     url: "follow-along-links/index.html",
     img: "images/follow.JPG",
   },
+  {
+    title: "Speech Synthesis",
+    url: "speech-synthesis/index.html",
+    img: "images/speech2.JPG",
+  },
 ];
