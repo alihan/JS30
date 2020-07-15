@@ -133,4 +133,9 @@ const projects = [
     url: "speech-synthesis/index.html",
     img: "images/speech2.JPG",
   },
+  {
+    title: "Sticky Nav",
+    url: "sticky-nav/index.html",
+    img: "images/fixed-nav.JPG",
+  },
 ];
