@@ -138,4 +138,9 @@ const projects = [
     url: "sticky-nav/index.html",
     img: "images/fixed-nav.JPG",
   },
+  {
+    title: "JS Capture",
+    url: "event-capture/index.html",
+    img: "images/bubbling.JPG",
+  },
 ];
