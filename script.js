@@ -143,4 +143,9 @@ const projects = [
     url: "event-capture/index.html",
     img: "images/bubbling.JPG",
   },
+  {
+    title: "Follow Along Nav",
+    url: "stripe-follow-along-nav/index.html",
+    img: "images/stripe.JPG",
+  },
 ];
