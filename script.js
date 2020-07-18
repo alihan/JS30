@@ -153,4 +153,9 @@ const projects = [
     url: "click-and-drag/index.html",
     img: "images/clickanddrag.JPG",
   },
+  {
+    title: "Video Speed Controller",
+    url: "video-speed-controller/index.html",
+    img: "images/videospeed.JPG",
+  },
 ];
