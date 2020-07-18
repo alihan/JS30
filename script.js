@@ -148,4 +148,9 @@ const projects = [
     url: "stripe-follow-along-nav/index.html",
     img: "images/stripe.JPG",
   },
+  {
+    title: "Click and Drag",
+    url: "click-and-drag/index.html",
+    img: "images/clickanddrag.JPG",
+  },
 ];
