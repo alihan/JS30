@@ -158,4 +158,14 @@ const projects = [
     url: "video-speed-controller/index.html",
     img: "images/videospeed.JPG",
   },
+  {
+    title: "Countdown Timer",
+    url: "countdown-timer/index.html",
+    img: "images/countdown.JPG",
+  },
+  {
+    title: "Whack a Mole",
+    url: "whack-a-mole/index.html",
+    img: "images/whack.JPG",
+  },
 ];
