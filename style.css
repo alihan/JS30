@@ -81,7 +81,6 @@ p {
 .container-block > a {
   display: block;
   width: 100%;
-  background: black;
   color: var(--verydarkblue);
   text-decoration: none;
   transition: 0.15s ease-in;
@@ -89,9 +88,9 @@ p {
 }
 
 .container-block img {
-  display: block;
-  width: 350px;
-  height: 200px;
+  object-fit: cover;
+  width: 300px;
+  height: 180px;
   border-radius: 4px;
 }
 
