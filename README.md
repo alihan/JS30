@@ -1,10 +1,6 @@
 # JS30
 This is a repo when I created watching [Wes Bos' JS30 Course](https://javascript30.com/). Also, I wrote a blog post about [What Did I Learn From JS30?](https://alihanyilmaz.com/blog/what-did-i-learn-from-js30)
 
-## Overview
-
-- `pages/*` - All project pages.
-
 ## Running Locally
 
 ```bash
